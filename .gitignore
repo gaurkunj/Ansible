@@ -1,0 +1,11 @@
+*.retry
+.vagrant/
+.vagrant
+~$*
+.DS_Store
+.cookbook/
+/**/.DS_Store
+**/venv/
+**/.venv/
+**/.vscode/
+venv_cookbook/
